@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeJunk", "SomeJunk\SomeJu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSide", "ClientSide\ClientSide.csproj", "{15938435-2A2A-467A-A4F5-5461C82BA9DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServerForms", "SocketServerForms\SocketServerForms.csproj", "{CE77CBF8-54A7-40C1-9966-4181E54212B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientForms", "SocketClientForms\SocketClientForms.csproj", "{3916F145-02CD-43E5-B32E-1DEB4965A9F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{15938435-2A2A-467A-A4F5-5461C82BA9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15938435-2A2A-467A-A4F5-5461C82BA9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15938435-2A2A-467A-A4F5-5461C82BA9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE77CBF8-54A7-40C1-9966-4181E54212B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE77CBF8-54A7-40C1-9966-4181E54212B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE77CBF8-54A7-40C1-9966-4181E54212B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE77CBF8-54A7-40C1-9966-4181E54212B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3916F145-02CD-43E5-B32E-1DEB4965A9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3916F145-02CD-43E5-B32E-1DEB4965A9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3916F145-02CD-43E5-B32E-1DEB4965A9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3916F145-02CD-43E5-B32E-1DEB4965A9F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
